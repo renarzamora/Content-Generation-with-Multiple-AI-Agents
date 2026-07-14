@@ -11,7 +11,7 @@ from autogen_agentchat.base import TerminatedException, TerminationCondition, Ta
 from autogen_agentchat.messages import StopMessage
 from autogen_core import Component
 from autogen_agentchat.messages import StructuredMessage
-from src.schemas import ContentFeedback, SEOFeedback
+from schemas import ContentFeedback, SEOFeedback
 
 load_dotenv()
 

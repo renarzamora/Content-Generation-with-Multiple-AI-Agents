@@ -1,7 +1,7 @@
 import streamlit as st
 import asyncio
 import os
-from src.agents import teamconfig, orchestrate
+from agents import teamconfig, orchestrate
 
 # Inicialización del estado de la sesión
 if 'messages' not in st.session_state:

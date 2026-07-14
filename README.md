@@ -1,6 +1,6 @@
 # Content Generation with Multiple AI Agents 🤖✍️
 
-![Project Demo] https://youtu.be/oXCvkkM1ots
+[![Project Demo](https://youtube.com)](https://youtu.be/RXEwLB9bOOc)
 
 A multi-agent content generation system combining a **writer agent**, a **content critic agent**, and an **SEO critic agent** to collaboratively create and improve text content. Powered by **OpenAI GPT** models and orchestrated with the **Autogen** framework. Interactive chat UI built with **Streamlit**.
 
